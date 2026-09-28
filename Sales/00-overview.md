@@ -14,9 +14,16 @@ Maintain full visibility over margins, pricelists, discounts, and product varian
 
 ### Quick Actions
 
-| **I want to create a quotation**<br>Go directly to the practical steps to draft, customize, and send an offer. | **I am here for the first time**<br>Learn the sales process with a complete end-to-end walkthrough. |
-| :--- | :--- |
-| **What does this field or policy mean?**<br>Understand invoicing policies, pricing formulas, order statuses, and margins. | **What can I configure in advance?**<br>Set up quotation templates, units of measure, pricelists, and Sendcloud delivery methods. |
+<table>
+  <tr>
+    <td><b>I want to create a quotation</b><br>Go directly to the practical steps to draft, customize, and send an offer.</td>
+    <td><b>I am here for the first time</b><br>Learn the sales process with a complete end-to-end walkthrough.</td>
+  </tr>
+  <tr>
+    <td><b>What does this field or policy mean?</b><br>Understand invoicing policies, pricing formulas, order statuses, and margins.</td>
+    <td><b>What can I configure in advance?</b><br>Set up quotation templates, units of measure, pricelists, and Sendcloud delivery methods.</td>
+  </tr>
+</table>
 
 ---
 
