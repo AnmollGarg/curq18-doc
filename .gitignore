@@ -1,1 +1,6 @@
+# LibreOffice lock files
 .~lock.*#
+
+# OpenDocument files
+*.odt
+*.ods
