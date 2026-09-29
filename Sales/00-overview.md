@@ -27,4 +27,4 @@ Maintain full visibility over margins, pricelists, discounts, and product varian
 
 ---
 
-[View all articles →](#) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](#)
+[View all articles](#) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](#)
