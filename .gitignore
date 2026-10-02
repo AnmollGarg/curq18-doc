@@ -4,3 +4,6 @@
 # OpenDocument files
 *.odt
 *.ods
+
+# IDE Agent configuration
+.agents/

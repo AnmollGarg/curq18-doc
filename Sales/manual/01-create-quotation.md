@@ -1,89 +1,74 @@
 # Creating a Quotation
 
-## Accessing the Sales Workspace
+Follow these quick steps to create and send a quotation in CURQ 18:
 
-To open the Sales app in CURQ 18:
+### 1. Start a New Quote
+1. Open the **Sales** app from the main menu.
+2. Click **New** at the top left to open a blank quotation.
 
-1. Click the main menu at the top of your screen.
-2. Choose **Sales**.
+   ![Click New to create a quotation](images/start-new-quote.png)
 
-The system opens directly to your quotations list with **My Quotations** selected by default. 
+### 2. Choose the Customer
+1. Select your customer in the **Customer** field.
+   The system automatically fills in their **Invoice Address**, **Delivery Address**, **Pricelist**, and **Payment Terms**.
+   *(You need to enable Pricelists from Sales > Configuration > Settings)*
 
-If you are already inside the Sales app, you can return to this list anytime by clicking **Orders** > **Quotations**.
+   ![Select customer and review details](images/choose-customer.png)
 
----
+2. (Optional) Select a **Quotation Template** to load prefilled items and default terms.
+   *(You need to enable Quotation Templates from Sales > Configuration > Settings)*
 
-## Starting a New Quotation
+   ![Enable Quotation Templates in Sales settings](images/quotation-templates-setting.png)
 
-To start a new quotation, click the **New** button at the top left of the Quotations list view. This opens a blank quotation form.
+3. Set an **Expiration** date to specify how long your quote stays valid.
 
-### 1. Customer and Commercial Details
+*(Refer to [Managing Customers](../procedures/03-managing-customers.md) to create and manage customers)*
+*(Refer to [Pricelists and Pricing Rules](../procedures/04-pricelists-and-pricing-rules.md) to set up pricelists)*
+*(Refer to [Quotation Templates](../procedures/05-quotation-templates.md) to set up quotation templates)*
 
-Begin by entering the name of your customer in the **Customer** field at the top of the form. This is a required field.
+### 3. Add Products
+1. Under the **Order Lines** tab, click **Add a product**.
+2. Select your item, enter the **Quantity**, and adjust the **Unit Price** or **Discount** if needed.
+   *(You need to enable Discounts from Sales > Configuration > Settings)*
+3. If selling in packages or bulk units, select a **Packaging** type and enter the **Packaging Quantity**.
+   *(You need to enable Product Packagings from Sales > Configuration > Settings)*
 
-When you select a customer, the system automatically pulls data from their contact record:
-* The **Invoice Address** and **Delivery Address** auto populate with the addresses saved for that customer. You can change them if this specific order requires different billing or shipping locations.
-* The customer default **Pricelist** and **Payment Terms** fill in automatically.
+   ![Enable Product Packagings in Sales settings](images/product-packagings-setting.png)
 
-Next, review and complete the remaining header fields:
-* **Quotation Template**: Optionally choose a saved template. Selecting a template automatically fills in standard product lines, optional products, expiration date, terms and conditions, online signature and payment rules, and the invoicing journal.
-  *(Refer to this guide to set up quotation templates)*
-* **Quotation Date**: This field defaults to the current date and time when you created the quotation.
-* **Expiration**: Select the date until which the quotation remains valid. If you selected a quotation template with a validity duration, this date calculates automatically.
-* **Pricelist**: Confirm the currency and pricing rules applied to the products on this quote.
-  *(Refer to this guide to set up pricelists)*
-* **Payment Terms**: Specify the payment schedule, such as Immediate Payment or 30 Days.
+4. (Optional) Click **Catalog** to browse items visually with pictures and add them with one click.
+5. (Optional) Use **Add a section** or **Add a note** to organize products with headings or custom text.
 
-### 2. Adding Products on the Order Lines Tab
+![Order lines with products, packaging, sections, and notes](images/order-lines-products.png)
 
-Under the **Order Lines** tab, specify the items or services being quoted. 
+### 4. Optional Products
+Under the **Optional Products** tab, add suggested accessories or upgrades that customers can choose to include before signing online.
 
-To add an item, click **Add a product**. In the **Product** field, search for and select your product:
-* Selecting a product automatically fills in its **Description**, **Unit of Measure**, **Unit Price**, and applicable **Taxes**.
-* Enter the desired amount in the **Quantity** field.
-* If you sell in bulk packages, select a **Packaging** type and specify the **Packaging Quantity**. The system then updates the total unit quantity accordingly.
-* If you want to give a price reduction on a specific line, enter a percentage in the **Discount** field.
-* The **Amount** field calculates the line total automatically.
+![Optional products configured for customer selection](images/optional-products.png)
 
-You can also use the following controls:
-* Click **Catalog** to open a side panel where you can browse products visually with photos and add items with one click.
-* Click **Add a section** to create header categories that divide your quote into clear visual groups.
-* Click **Add a note** to insert custom text or instructions that will print directly on the customer document.
+### 5. Other Info Settings (Optional)
 
-### 3. Offering Optional Products
+Open the **Other Info** tab to check commercial, shipping, and accounting details:
 
-Open the **Optional Products** tab to offer additional accessories, upgrades, or services.
+![Other Info tab with sales, delivery, invoicing, and tracking options](images/other-info-settings.png)
 
-Items listed here do not affect the quotation total initially. Instead, when the customer views the quotation online through the customer portal, they can choose to add these optional items to their order before signing.
+| Field                  | Description                                                                 |
+| ------------------------| -----------------------------------------------------------------------------|
+| **Salesperson**        | The internal team member managing this deal.                                |
+| **Sales Team**         | The sales group credited for the revenue.                                   |
+| **Online Signature**   | Check this box to require the customer to sign online to confirm the order. |
+| **Online Payment**     | Check this box to require an online prepayment deposit before confirmation. |
+| **Customer Reference** | Enter the purchase order number provided by the customer.                   |
+| **Tags**               | Add descriptive labels to filter and search this order later.               |
+| **Fiscal Position**    | Adjusts taxes automatically for international or tax exempt customers.      |
+| **Invoicing Journal**  | The accounting journal where customer invoices are posted.                  |
+| **Warehouse**          | The warehouse location responsible for packing and shipping the products.   |
+| **Shipping Policy**    | Choose to ship items as soon as available, or wait for all items together.  |
+| **Delivery Date**      | The promised delivery or shipment date agreed with the customer.            |
+| **Incoterm**           | International trade rules such as EXW, FOB, or CIF.                         |
+| **Tracking**           | Trace the source document or marketing campaign that brought in this sale.  |
 
-Click **Add a product** to select the item, enter the suggested **Quantity**, and set the **Unit Price** or **Discount**.
-
-### 4. Configuring Other Info
-
-Open the **Other Info** tab to review delivery, commercial, and accounting settings:
-
-#### Sales
-* **Salesperson**: The internal employee in charge of this deal.
-* **Sales Team**: The sales group credited for the revenue.
-* **Company**: The company branch managing the transaction.
-* **Online Signature**: Check this box to require the customer to sign electronically on the portal to confirm the order.
-* **Online Payment**: Check this box to require an online prepayment before the order confirms. You can specify whether to collect a partial deposit or the full amount.
-* **Customer Reference**: Enter the purchase order number or reference provided by the customer.
-* **Tags**: Add descriptive labels to help filter and find this order later.
-* **Print Variant Grids**: Check this box if you want the PDF quote to display a matrix table for products with multiple size or color options.
-
-#### Invoicing
-* **Fiscal Position**: Adjusts taxes automatically if the customer is located in another country or qualifies for tax exemption.
-* **Invoicing Journal**: The accounting journal where invoices generated from this order are posted.
-
-#### Delivery
-* **Shipping Weight**: Displays the total physical weight calculated from all ordered products.
-* **Warehouse**: The storage facility responsible for picking, packing, and shipping the items.
-* **Incoterm**: Select international trade rules, such as EXW, FOB, or CIF.
-* **Incoterm Location**: The city, port, or facility named in the trade rule agreement.
-* **Shipping Policy**: Choose whether to ship products as soon as each item is available, or wait until all items are ready for a single shipment.
-* **Delivery Date**: The promised arrival or shipment date agreed upon with the customer.
-
-#### Tracking
-* **Source Document**: Displays the lead, opportunity, or previous document that generated this quotation.
-* **Campaign, Medium, and Source**: Marketing fields used to trace the channel or campaign that brought in this sale.
+### 6. Next Steps
+Once your quote is complete:
+* Click **Send by Email** to email the offer directly to your customer.
+* Click **Print** to download a PDF copy.
+* Click **Confirm** to turn the quotation into a confirmed sales order.
