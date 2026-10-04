@@ -7,6 +7,7 @@ Functional documentation and process guides for CURQ 18.
 ## Modules
 
 * [Sales (`Sales/`)](Sales/00-overview.md): Quotations, sales orders, pricelists, shipping, and invoicing.
+* [Contacts (`Contacts/`)](Contacts/00-overview.md): Companies, individuals, addresses, tags, banking, and localization.
 
 ---
 
