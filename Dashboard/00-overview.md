@@ -12,6 +12,12 @@ Built on a responsive layout, CURQ Dashboards adapt to any screen size and offer
 * **Standard Dashboards**: Pre-built company dashboards that update automatically with live CURQ data. They include built-in filters (such as date ranges and categories) to help you analyze high-level trends and drill down into operational details.
 * **My Dashboard**: A personal workspace where each user can create their own custom dashboard and arrange responsive widgets for daily tasks without global filters.
 
+> [!NOTE]
+> **Module Requirements:**
+> * **`spreadsheet_dashboard`**: Core framework for standard dashboards, sidebar categories, and spreadsheet rendering.
+> * **`board`**: Provides the customizable **My Dashboard** workspace.
+> * **Predefined Dashboard Modules** *(e.g., `spreadsheet_dashboard_sale`, `spreadsheet_dashboard_account`)*: Provide pre-configured KPI templates for corresponding business apps.
+
 ---
 
 ### Quick Actions
@@ -23,4 +29,4 @@ Built on a responsive layout, CURQ Dashboards adapt to any screen size and offer
 
 ---
 
-[View all articles](./articles/) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](./faq/)
+[View all articles](./articles/tracking-executive-kpis-and-daily-operations.md) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](./faq/01-dashboards-faq.md)
