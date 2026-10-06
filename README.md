@@ -11,6 +11,7 @@ Functional documentation and process guides for CURQ 18.
 * [Chat (`Chat/`)](Chat/00-overview.md): Channels, direct messages, voice and video calls, and record chatter.
 * [CRM (`CRM/`)](CRM/00-overview.md): Leads, pipeline stages, opportunity tracking, sales teams, and lost reasons.
 * [Dashboard (`Dashboard/`)](Dashboard/00-overview.md): Key performance indicators (KPIs), standard dashboards, and personal user dashboards.
+* [General Settings (`General-Settings/`)](General-Settings/00-overview.md): Users, companies, access rights, email servers, localization, and developer tools.
 
 ---
 
