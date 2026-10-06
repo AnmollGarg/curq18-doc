@@ -10,6 +10,7 @@ Functional documentation and process guides for CURQ 18.
 * [Contacts (`Contacts/`)](Contacts/00-overview.md): Companies, individuals, addresses, tags, banking, and localization.
 * [Chat (`Chat/`)](Chat/00-overview.md): Channels, direct messages, voice and video calls, and record chatter.
 * [CRM (`CRM/`)](CRM/00-overview.md): Leads, pipeline stages, opportunity tracking, sales teams, and lost reasons.
+* [Dashboard (`Dashboard/`)](Dashboard/00-overview.md): Key performance indicators (KPIs), standard dashboards, and personal user dashboards.
 
 ---
 
