@@ -25,12 +25,30 @@ To access the website frontend and editing tools:
 To start a new webpage:
 
 1. In the top website control bar, click **+ New**.
-2. In the creation dialog, click **Page**.
-3. In the **Page Title** field, enter a clear name for your new webpage *(such as `Services`, `About Us`, or `Enterprise Solutions`)*.
-4. Review the page configuration options:
-   * **Page URL**: CURQ automatically generates a clean URL slug based on your title *(such as `/services`)*. You can edit this slug directly if needed.
-   * **Add to menu**: Keep this checked to automatically insert a navigation link for this page into your primary header navbar. Uncheck this if you are creating a private landing page or marketing campaign funnel.
-5. Click **Create**. CURQ loads the new blank webpage canvas and immediately activates the drag-and-drop editor.
+
+   ![CURQ Website top control bar highlighting the + New button](images/website-top-bar-new-button.png)
+
+2. In the quick-creation overlay dialog, click **Page**:
+   * CURQ provides direct creation shortcuts for multiple content types, including **Page**, **Product**, **Course**, **Livechat Widget**, **Blog Post**, **Event**, **Forum**, and **Job Position**.
+
+   ![Quick creation modal showing Page, Product, Course, Blog Post, and Event options](images/website-new-content-modal.png)
+
+3. In the **New Page** template selector dialog:
+   * Select a layout category from the left sidebar *(such as **Basic**, **About**, **Landing Pages**, **Gallery**, **Services**, **Pricing Plans**, **Team**, or **Custom**)*.
+   * Choose a pre-designed page structure from the library, or select **Blank Page** to build from scratch.
+
+   ![New Page template selection dialog showing template categories and pre-designed layout cards](images/website-new-page-template-modal.png)
+
+4. In the title prompt modal:
+   * **Page Title**: Enter a clear name for your new webpage *(such as `Info`, `Services`, or `About Us`)*.
+   * **Add to menu**: Keep this checked to automatically insert a navigation link for this page into your primary header navbar. Uncheck this if you are creating a standalone landing page.
+   * Click **Create**.
+
+   ![New Page modal showing Page Title input field, Add to menu toggle, and Create button](images/website-new-page-title-modal.png)
+
+5. CURQ generates the new page, inserts the new menu link in the website navbar, and immediately opens the visual drag-and-drop editor.
+
+   ![Newly created page loaded in the editor highlighting the new Info menu item in the navbar](images/website-new-page-created-menu-link.png)
 
 ---
 
