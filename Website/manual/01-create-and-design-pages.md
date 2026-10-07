@@ -79,12 +79,20 @@ The drag-and-drop editor provides a library of pre-designed responsive blocks in
 Every element on the canvas can be edited directly without opening separate dialog forms:
 
 1. Click directly on any headline, subtitle, or paragraph on the page canvas.
-2. Type or paste your replacement text.
-3. Use the floating formatting toolbar that appears above your selected text:
-   * **Text Format**: Select heading styles *(H1, H2, H3, H4, H5, H6)* or paragraph body text.
-   * **Typography Styles**: Apply **Bold**, *Italic*, Underline, or Strikethrough formatting.
-   * **Font Size & Color**: Adjust font size and pick custom brand colors from the color palette.
-   * **Lists & Alignment**: Create bulleted or numbered sub-lists, and set text alignment *(Left, Center, Right, Justify)*.
+2. Type or paste your replacement text directly on the canvas.
+
+   ![Headline text selected and edited inline directly on the webpage canvas with floating AI assistant pill](images/website-editor-inline-text-editing.png)
+
+3. Use the floating formatting toolbar and the **Inline Text** section in the right **Customize** sidebar:
+   * **Text Format**: Select heading levels *(Header 1 to Header 6, Display 1 to 4)*, paragraph body text *(Normal, Light, Small)*, code blocks, or blockquotes.
+   * **Typography Styles**: Apply **Bold**, *Italic*, Underline, or Strikethrough formatting, or click the eraser icon to remove formatting.
+   * **Font Size & Color**: Adjust pixel font size, apply text font colors from the palette, and apply background highlighter colors.
+   * **Lists & Alignment**: Set text alignment *(Left, Center, Right, Justify)*, and create unordered bullet lists, numbered ordered lists, or interactive checklists.
+   * **AI Text Assistant & Translation**: Click the magic wand icon or floating AI pill to generate, rewrite, or expand text with AI, or click **Translate** to generate multilingual content.
+   * **Animations & Highlights**: Click **Animate** to configure text entrance animations, or click **Highlight** to apply stylistic animated marker strokes.
+
+   ![Customize sidebar displaying the Inline Text formatting panel and text block layout controls](images/website-editor-inline-text-customize-sidebar.png)
+
 4. Click on any button component on the canvas to configure button actions:
    * **Style**: Switch button appearance between **Primary**, **Secondary**, **Light**, **Dark**, or **Outline** styles.
    * **Size**: Choose button size between **Small**, **Regular**, or **Large**.
