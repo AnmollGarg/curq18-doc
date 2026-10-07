@@ -78,12 +78,12 @@ The drag-and-drop editor provides a library of pre-designed responsive blocks in
 
 Every element on the canvas can be edited directly without opening separate dialog forms:
 
-1. Click directly on any headline, subtitle, or paragraph on the page canvas.
+1. Click directly on any headline, subtitle, or paragraph on the page canvas to select and activate the text block.
 2. Type or paste your replacement text directly on the canvas.
 
    ![Headline text selected and edited inline directly on the webpage canvas with floating AI assistant pill](images/website-editor-inline-text-editing.png)
 
-3. Use the floating formatting toolbar and the **Inline Text** section in the right **Customize** sidebar:
+3. When a text block is selected, the right **Customize** sidebar displays the **Inline Text** panel (which remains hidden for non-text components like images or layout containers):
    * **Text Format**: Select heading levels *(Header 1 to Header 6, Display 1 to 4)*, paragraph body text *(Normal, Light, Small)*, code blocks, or blockquotes.
    * **Typography Styles**: Apply **Bold**, *Italic*, Underline, or Strikethrough formatting, or click the eraser icon to remove formatting.
    * **Font Size & Color**: Adjust pixel font size, apply text font colors from the palette, and apply background highlighter colors.
