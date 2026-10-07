@@ -16,6 +16,8 @@ To access the website frontend and editing tools:
    * **Page Status Toggle**: Switch between **Unpublished** *(red)* and **Published** *(green)*.
    * **Site Menu**: Direct navigation to explore pages, configure SEO metadata, and access backend website settings.
 
+   ![CURQ Website frontend live preview showing top administrative control bar, navigation links, and edit controls](images/website-frontend-preview-toolbar.png)
+
 ---
 
 ### 2. Creating a New Webpage
