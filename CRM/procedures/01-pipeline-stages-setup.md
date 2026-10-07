@@ -46,16 +46,16 @@ To adjust stage settings, exit criteria, or win designations:
 2. Click the gear actions icon that appears at the top right of the column header.
 3. Select **Edit** from the dropdown menu to open the configuration dialog.
 
-![Stage column header dropdown menu highlighting the Edit option](./images/crm-pipeline-stages-column-actions-dropdown.png)
+   ![Stage column header dropdown menu highlighting the Edit option](./images/crm-pipeline-stages-column-actions-dropdown.png)
 
-#### Stage Configuration Fields:
-* **Stage Name**: The label displayed at the top of the Kanban column and in the deal status bar.
-* **Is Won Stage?**: Check this box to designate this stage as the successful closing milestone. When an opportunity moves into this stage, CURQ marks the opportunity as Won and sets probability to 100%.
-* **Folded in Pipeline ?**: Check this box to collapse the stage column horizontally by default in the Kanban board. This saves screen space for stages that do not require daily attention.
-* **Sales Team ?**: Assign a specific sales team if this stage only applies to that group *(such as an Enterprise Sales team with distinct qualification steps)*. Leave this field empty to make the stage available across all sales teams.
-* **REQUIREMENTS**: Enter internal guidelines, exit criteria, or mandatory documentation needed before a deal advances to this stage *(such as `Technical feasibility approved and budget authority confirmed`)*. This text displays as informative guidance to team members when viewing or hovering over the stage.
+   Configure the stage fields in the dialog:
+   * **Stage Name**: The label displayed at the top of the Kanban column and in the deal status bar.
+   * **Is Won Stage?**: Check this box to designate this stage as the successful closing milestone. When an opportunity moves into this stage, CURQ marks the opportunity as Won and sets probability to 100%.
+   * **Folded in Pipeline ?**: Check this box to collapse the stage column horizontally by default in the Kanban board. This saves screen space for stages that do not require daily attention.
+   * **Sales Team ?**: Assign a specific sales team if this stage only applies to that group *(such as an Enterprise Sales team with distinct qualification steps)*. Leave this field empty to make the stage available across all sales teams.
+   * **REQUIREMENTS**: Enter internal guidelines, exit criteria, or mandatory documentation needed before a deal advances to this stage *(such as `Technical feasibility approved and budget authority confirmed`)*. This text displays as informative guidance to team members when viewing or hovering over the stage.
 
-![Stage editing modal dialog showing Stage Name, Is Won Stage, Folded in Pipeline, and Requirements fields](./images/crm-pipeline-stages-edit-modal.png)
+   ![Stage editing modal dialog showing Stage Name, Is Won Stage, Folded in Pipeline, and Requirements fields](./images/crm-pipeline-stages-edit-modal.png)
 
 4. Click **Save & Close** to apply the configuration.
 

@@ -89,7 +89,7 @@ To message a colleague privately:
    * **Green filled circle**: Online and active.
    * **Orange filled circle**: Away or idle *(automatically set after 30 minutes of inactivity)*.
    * **Hollow circle (`○`)**: Offline *(user closed their browser or logged out)*.
-   * **Green heart (`♥`)**: Automated bot *(such as OdooBot)*.
+   * **Green heart (`♥`)**: Automated bot.
 
 *(User availability updates automatically based on system activity. There is no manual toggle to change your status).*
 
@@ -196,22 +196,22 @@ To launch an immediate video conference without creating a permanent channel fir
 
 Every channel and direct message window features a set of administrative and productivity tools in the top right header:
 
-#### 1. Notification Settings (Bell Icon)
+#### Notification Settings (Bell Icon)
 Click the bell icon in the top header to control how alerts arrive for the current conversation:
 * **Mute Conversation**: Silence popups and notification sounds for a designated period. Choose between **For 15 minutes**, **For 1 hour**, **For 3 hours**, **For 8 hours**, **For 24 hours**, or permanently until unmuted. When muted, the bell icon changes into a red slashed bell. Click **Unmute Conversation** to restore alerts at any point.
 * **Channel Notification Preferences** *(Channels only)*: Select how CURQ alerts you to new posts:
-  * **Use Default**: Follows your global user preference *(Handle in Odoo or Handle by Emails)*.
+  * **Use Default**: Follows your global user preference *(Handle in CURQ or Handle by Emails)*.
   * **All Messages**: Generates a notification for every post in the room.
   * **Mentions Only**: Alerts you only when someone tags you with `@` or alerts the entire group.
   * **Nothing**: Completely silences all activity in this room without muting your other conversations.
 
-#### 2. Search Messages (Magnifying Glass Icon)
+#### Search Messages (Magnifying Glass Icon)
 Click the magnifying glass icon to open the in-thread search drawer on the right side:
 * Enter keywords, coworker names, or phrases into the search bar.
 * CURQ displays matching messages chronologically with author names and posting times.
 * Click any search result to scroll straight to that message inside the conversation history.
 
-#### 3. Attachments Drawer and External Upload Security (Paperclip Icon)
+#### Attachments Drawer and External Upload Security (Paperclip Icon)
 Click the paperclip icon in the header toolbar to view all shared documents and media:
 * Displays all files, PDF invoices, spreadsheets, and pictures shared in the conversation, organized chronologically by date sections.
 * Allows team members to preview, download, or delete uploaded files without searching through hundreds of text lines.
@@ -220,13 +220,13 @@ Click the paperclip icon in the header toolbar to view all shared documents and 
   * **File upload is disabled for external users**: When switched off, guest participants can read and write chat messages, but cannot upload files. This protects company storage and prevents unverified external uploads.
   * **File upload is enabled for external users**: When switched on, external guests can attach project files, receipts, or photos directly to the thread.
 
-#### 4. Pinned Messages (Push Pin Icon)
+#### Pinned Messages (Push Pin Icon)
 Click the push pin icon in the header toolbar to open the pinned messages drawer:
 * Pin critical announcements, guidelines, shared spreadsheets, or meeting agendas so team members can access them quickly.
 * To pin a message: Hover over any message in the feed, click the three vertical dots menu, and select **Pin**.
 * To consult or unpin: Open the pinned messages drawer, click a pinned item to view it in context, or unpin it when the announcement is no longer needed.
 
-#### 5. Members and Invitations (People Icon)
+#### Members and Invitations (People Icon)
 Click the people icon in the top header to open the members sidebar:
 * Lists all participants currently enrolled in the channel or conversation.
 * Displays live presence indicators next to each coworker *(Green filled circle for active, Orange filled circle for away, and Hollow circle for offline)*.

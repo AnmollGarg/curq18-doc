@@ -14,11 +14,7 @@ Chat powers the chatter feed on every customer card, sales quotation, project ta
 
 ### Quick Actions
 
-|                                                                                                                                   |                                                                                                                  |
-| -----------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------|
-| **I want to send a message or start a chat**<br>Go directly to the practical steps for opening channels, direct chats, and calls. | **I am here for the first time**<br>Explore how the inbox, channels, direct messages, and chatter work together. |
-| **Where do I see my notifications?**<br>Understand the Inbox, Starred messages, unread counters, and email alerts.                | **What can I configure in advance?**<br>Set up public or private channels, member access, and canned responses.  |
-
----
-
-[View all articles](./articles/streamlining-cross-department-collaboration.md) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](./faq/01-chat-and-communication-faq.md)
+| | |
+| --- | --- |
+| **I want to send a message or start a chat**<br>Follow steps to open [channels and direct messages](./manual/01-channels-and-direct-messages.md). | **I am here for the first time**<br>Learn cross-department communication workflows in our [collaboration article](./articles/streamlining-cross-department-collaboration.md). |
+| **Where do I manage notifications?**<br>Configure notification delivery and alert sounds in [Notification Settings](./procedures/01-notification-settings.md). | **What can I configure in advance?**<br>Set up [voice and video calls](./procedures/02-voice-and-video-configuration.md) and [canned responses](./procedures/03-canned-responses.md). |

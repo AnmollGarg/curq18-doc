@@ -86,7 +86,7 @@ In addition to chat alerts, CURQ delivers notifications for business documents y
 ![User menu at the top right highlighting the Preferences option](./images/user-avatar-preferences-menu.png)
 
 3. Locate the **Notification** field under the **Preferences** tab:
-   * **Handle in Odoo**: All notifications route to your CURQ **Inbox** folder. This centralizes company communication inside the business platform and keeps your external email clean.
+   * **Handle in CURQ**: All notifications route to your CURQ **Inbox** folder. This centralizes company communication inside the business platform and keeps your external email clean.
    * **Handle by Emails**: Notifications forward directly to your registered work email address as separate emails.
 
 ![Change My Preferences dialog highlighting the Preferences tab and Notification delivery options](./images/user-preferences-notification-delivery.png)

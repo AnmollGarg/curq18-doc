@@ -16,9 +16,5 @@ Maintain full visibility over margins, pricelists, discounts, and product varian
 
 | | |
 | --- | --- |
-| **I want to create a quotation**<br>Go directly to the practical steps to draft, customize, and send an offer. | **I am here for the first time**<br>Learn the sales process with a complete end-to-end walkthrough. |
-| **What does this field or policy mean?**<br>Understand invoicing policies, pricing formulas, order statuses, and margins. | **What can I configure in advance?**<br>Set up quotation templates, units of measure, pricelists, and Sendcloud delivery methods. |
-
----
-
-[View all articles](#) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](#)
+| **I want to create a quotation**<br>Follow step-by-step instructions to [create a quotation](./manual/01-create-quotation.md) and [send it to customers](./manual/02-send-quotation.md). | **I am here for the first time**<br>Follow the complete sales workflow from [confirming orders](./manual/03-confirm-sales-order.md) to [invoicing](./manual/04-invoicing-sales-order.md) and [bulk contract sales](./articles/selling-in-bulk-with-contracts.md). |
+| **How do I analyze sales performance?**<br>Track revenue trends, top-selling products, and salesperson metrics in [Sales Reporting](./manual/07-analyze-sales-orders.md). | **What can I configure in advance?**<br>Set up [pricelists](./procedures/04-pricelists-and-pricing-rules.md), [quotation templates](./procedures/05-quotation-templates.md), and [delivery methods](./procedures/07-shipping-and-delivery-methods.md). |

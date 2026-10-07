@@ -24,7 +24,7 @@ CURQ sends an immediate notification to that colleague's **Inbox** with a direct
 
 ### 4. Can I stop receiving email alerts and keep notifications inside CURQ?
 
-Yes. Click your avatar at the top right, open **Preferences**, and change **Notification** to **Handle in Odoo**. All updates will stay in your CURQ Inbox instead of filling your personal email.
+Yes. Click your avatar at the top right, open **Preferences**, and change **Notification** to **Handle in CURQ**. All updates will stay in your CURQ Inbox instead of filling your personal email.
 
 ---
 

@@ -14,11 +14,7 @@ Manage multiple delivery, invoice, and private addresses for every partner. Set 
 
 ### Quick Actions
 
-|                                                                                                                      |                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------|
-| **I want to add a contact**<br>Go directly to the practical steps to create a company or individual record.          | **I am here for the first time**<br>Explore how Contacts connects across sales, purchasing, and invoicing.         |
-| **What does this contact field mean?**<br>Understand address types, VAT validation, payment terms, and contact tags. | **What can I configure in advance?**<br>Set up contact tags, titles, industries, banks, and localization settings. |
-
----
-
-[View all articles](./articles/managing-enterprise-customers-and-subsidiaries.md) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](./faq/01-contacts-management-faq.md)
+| | |
+| --- | --- |
+| **I want to add a contact**<br>Follow practical steps to [create and manage contacts](./manual/01-create-contact.md). | **I am here for the first time**<br>Learn how to [search, filter, and group contacts](./manual/02-search-filter-and-group-contacts.md) or explore our [enterprise customer management article](./articles/managing-enterprise-customers-and-subsidiaries.md). |
+| **How do I configure master data?**<br>Configure [contact tags](./procedures/01-contact-tags-setup.md), [titles](./procedures/02-contact-titles-setup.md), and [industries](./procedures/03-industries-setup.md). | **What can I configure in advance?**<br>Set up [bank accounts](./procedures/04-bank-accounts-setup.md) and [localization settings](./procedures/05-localization-setup.md). |

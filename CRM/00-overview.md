@@ -16,9 +16,6 @@ CRM allows sales leaders to allocate opportunities across specialized sales team
 
 | | |
 | --- | --- |
-| **I want to create or update an opportunity**<br>Go directly to the practical steps for adding deals, setting revenue, and moving cards across pipeline stages. | **I am here for the first time**<br>Explore how stages, probability, deal cards, and sales activities work together. |
-| **Why was a deal lost or how do I restore it?**<br>Understand lost reasons, archive closed opportunities, and restore deals if negotiations resume. | **What can I configure in advance?**<br>Set up custom pipeline stages, sales teams, deal tags, standardized lost reasons, and recurring plans. |
-
----
-
-[View all articles](./articles/closing-enterprise-deals-with-pipeline-management.md) &nbsp;&nbsp;&nbsp;&nbsp; [Frequently asked questions](./faq/01-crm-pipeline-faq.md)
+| **I want to create or update an opportunity**<br>Follow steps to [create and manage opportunities](./manual/01-create-and-manage-leads-opportunities.md) and [qualify incoming leads](./manual/04-qualify-and-convert-leads.md). | **I am here for the first time**<br>Learn how deals progress through [pipeline stages and won/lost workflows](./manual/02-pipeline-stages-and-won-lost-workflow.md) or explore our [enterprise deal strategy article](./articles/closing-enterprise-deals-with-pipeline-management.md). |
+| **Why was a deal lost or how do I restore it?**<br>Learn how to [record lost reasons](./manual/02-pipeline-stages-and-won-lost-workflow.md) and configure [lost reasons and tags](./procedures/03-lost-reasons-and-tags-setup.md). | **What can I configure in advance?**<br>Configure [custom stages](./procedures/01-pipeline-stages-setup.md), [sales teams](./procedures/02-sales-teams-setup.md), and [recurring plans](./procedures/04-recurring-plans-setup.md). |
+| **How do I analyze pipeline performance and forecasts?**<br>Track monthly revenue projections, stage progression, lead sources, and activity logs in [Reporting](./manual/05-analyze-crm-reporting.md). | **How do I manage daily sales follow-ups?**<br>Schedule calls, meetings, emails, and to-do reminders using [My Activities](./manual/03-my-activities.md). |
