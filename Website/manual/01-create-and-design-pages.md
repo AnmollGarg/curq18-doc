@@ -12,6 +12,7 @@ To access the website frontend and editing tools:
 2. CURQ opens your public website in live preview mode with the website administrative control bar fixed at the top of your screen:
    * **Edit** *(Blue button)*: Opens the visual block editor sidebar and unlocks inline canvas editing.
    * **+ New**: Quick-creation menu to add new pages, blog posts, events, products, or job openings.
+   * **Website Switcher Dropdown**: If your database manages multiple websites, a website selector dropdown appears in the top control bar *(press hotkey `Alt + w`)* displaying the active website name. Click it to switch frontend context between your different brand websites before creating or editing pages.
    * **Mobile / Desktop Switcher**: Toggle icon to preview how pages adapt across desktop screens and mobile devices.
    * **Page Status Toggle**: Switch between **Unpublished** *(red)* and **Published** *(green)*.
    * **Site Menu**: Direct navigation to explore pages, configure SEO metadata, and access backend website settings.
@@ -24,7 +25,7 @@ To access the website frontend and editing tools:
 
 To start a new webpage:
 
-1. In the top website control bar, click **+ New**.
+1. In the top website control bar, click **+ New** *(if multiple websites are configured, ensure you have the intended website selected in the top website switcher dropdown first)*.
 
    ![CURQ Website top control bar highlighting the + New button](images/website-top-bar-new-button.png)
 
@@ -89,19 +90,26 @@ Every element on the canvas can be edited directly without opening separate dial
    * **Font Size & Color**: Adjust pixel font size, apply text font colors from the palette, and apply background highlighter colors.
    * **Lists & Alignment**: Set text alignment *(Left, Center, Right, Justify)*, and create unordered bullet lists, numbered ordered lists, or interactive checklists.
    * **AI Text Assistant & Copywriter**: While AI in CURQ is strictly limited to text (it does not generate layouts or images), it is not just a raw prompt generator. It operates in three distinct modes:
-     * **Prompt Generation**: When text words are not highlighted (cursor placed in a text block), clicking the AI wand opens the **Generate Text with AI** modal to draft new copy from a conversational prompt.
-     * **AI Copywriter**: When text words are actively highlighted on the canvas, clicking the AI wand opens the **AI Copywriter** dialog to generate 3 alternative variations with one-click tone and length filters *(Correct, Shorten, Lengthen, Friendly, Professional, or Persuasive)*.
-     * **AI Translation**: When text words are actively highlighted, the **Translate** dropdown appears in the sidebar to translate the selection into other configured website languages.
+     * **Prompt Generation**: When no specific text is selected (cursor simply placed in a text block), clicking the AI wand opens the **Generate Text with AI** modal to draft new copy from a conversational prompt.
+     * **AI Copywriter**: When specific text is selected on the canvas, clicking the AI wand opens the **AI Copywriter** dialog to generate 3 alternative variations with one-click tone and length filters *(Correct, Shorten, Lengthen, Friendly, Professional, or Persuasive)*.
+     * **AI Translation**: When text is selected, the **Translate** dropdown appears in the sidebar to translate the selected text into other configured website languages.
    * **Animations & Highlights**: Click **Animate** to configure text entrance animations, or click **Highlight** to apply stylistic animated marker strokes.
 
    ![Customize sidebar displaying the Inline Text formatting panel and text block layout controls](images/website-editor-inline-text-customize-sidebar.png)
 
+   ![Translate dropdown menu in the sidebar displaying target website languages for AI translation](images/website-editor-inline-text-translate-dropdown.png)
+
    ![AI prompt dialog modal titled Generate Text with AI showing prompt message input field](images/website-editor-ai-generate-text-modal.png)
 
+   ![AI Copywriter modal displaying tone transformation filters and three generated alternative options](images/website-editor-ai-copywriter-modal.png)
+
 4. Click on any button component on the canvas to configure button actions:
-   * **Style**: Switch button appearance between **Primary**, **Secondary**, **Light**, **Dark**, or **Outline** styles.
-   * **Size**: Choose button size between **Small**, **Regular**, or **Large**.
-   * **Link (URL)**: Click the link chain icon in the floating toolbar, enter an external web link or pick an internal page URL, and choose whether the link opens in the same tab or a new window.
+   * **Link (URL)**: Enter an external URL, search for an internal site page by typing `/`, or link to a section anchor by typing `#`. Toggle **Open in New Window** to control tab behavior.
+   * **Label**: Edit button display text directly in the sidebar or inline on the canvas.
+   * **Style**: Switch button appearance between **Button Primary**, **Button Secondary**, **Light**, **Dark**, or **Outline** styles.
+   * **Size**: Choose button size between **Small**, **Medium**, or **Large**.
+
+   ![Button styling and link target configuration options in the Customize sidebar](images/website-editor-button-link-sidebar.png)
 
 ---
 
@@ -109,18 +117,29 @@ Every element on the canvas can be edited directly without opening separate dial
 
 To replace stock placeholder pictures with company media:
 
-1. Double-click on any image on the canvas, or click once and select the image replacement icon in the floating toolbar.
-2. The CURQ Media dialog opens with multiple asset sources:
-   * **Upload an image**: Click **Upload** to select an image or graphic file directly from your computer.
-   * **Unsplash**: Search millions of high-resolution, royalty-free stock photographs using search keywords directly inside CURQ.
-   * **Documents**: Select images or graphics previously uploaded to your CURQ database.
-   * **Icons**: Pick from hundreds of vector line icons for feature grids and cards.
-3. Select your chosen image and click **Add**.
-4. In the right-hand **Customize** sidebar, fine-tune the image display settings:
-   * **Shape & Style**: Apply rounded corners, circular crop, or image shadow borders.
-   * **Filter**: Apply subtle visual filters *(such as Warm, Cold, B&W, or Vintage)*.
-   * **Hover Effect**: Add micro-interactions such as zoom, blur, or overlay color shifts when visitors hover over the image.
-   * **Quality & Sizing**: Choose automatic responsive compression to ensure fast page load speeds.
+1. Click directly on any image on the canvas.
+2. In the right **Customize** sidebar under the **Image** section, click the green **Replace** button to open the media library:
+
+   ![Customize sidebar Image panel highlighting the green Replace media button](images/website-editor-image-media-replace-button.png)
+
+   * **Images**: Search copyright-free illustrations and photos *(such as built-in Undraw vector illustrations)*, add an image by URL, or click **Upload an image** from your computer.
+   * **Documents**: Select downloadable files or PDF documents uploaded to your database.
+   * **Icons**: Choose from hundreds of vector line icons for feature lists and service cards.
+   * **Videos**: Embed video URLs or upload short video clips.
+
+   ![Select a media modal dialog showing media tabs, search field, and upload options](images/website-editor-select-media-modal.png)
+
+   ![Media dialog search results displaying Undraw illustrations and stock photo search field](images/website-editor-media-search-illustrations.png)
+
+3. Select your chosen image or illustration and click **Add**.
+4. In the right-hand **Customize** sidebar under the **Image** section, configure presentation settings:
+   * **Media Action**: Click **Replace** to swap the asset, or click the link chain icon to make the image clickable.
+   * **Description & Tooltip (SEO)**: Enter an **Alt tag** in the Description field for accessibility/SEO, and set a hover **Title tag** in the Tooltip field.
+   * **Transform & Crop**: Use crop and transform icons to adjust framing directly inside the editor.
+   * **Filter & Style**: Apply visual filters *(such as Warm, Cold, B&W)* and choose border shapes *(Default, Rounded Circle, Shadow, or Thumbnail)*.
+   * **Quality & Sizing**: Choose width scaling *(25%, 50%, 100%, or Default)* and adjust the image quality compression slider.
+
+   ![Customize sidebar panel showing image formatting controls, alt tags, filters, and sizing presets](images/website-editor-customize-image-sidebar.png)
 
 ---
 
@@ -171,9 +190,15 @@ To maintain visual consistency across all pages without restyling blocks one by 
 
 To verify how the page renders on smaller screens before going live:
 
-1. In the top website control bar, click the **Mobile** toggle icon *(smartphone symbol)*.
-2. CURQ resizes the editor canvas into a vertical mobile viewport *(375px)*.
-3. Review text scaling, column wrapping, and mobile navigation burger menus.
+1. In the top website editor bar, click the **Mobile Preview** button *(smartphone icon, press hotkey `Alt + v`)*.
+
+   ![Website editor top right bar highlighting the mobile preview toggle button](images/website-editor-mobile-preview-toggle-button.png)
+
+2. CURQ resizes the editor canvas into an interactive vertical smartphone device frame:
+
+   ![Interactive mobile viewport device frame showing responsive column stacking and touch navigation](images/website-editor-mobile-viewport-device-preview.png)
+
+3. Review text scaling, responsive column stacking, and mobile hamburger navigation.
 4. Click the smartphone icon again to return to full desktop editing view.
 
 ---
