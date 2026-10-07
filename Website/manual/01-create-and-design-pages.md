@@ -88,7 +88,10 @@ Every element on the canvas can be edited directly without opening separate dial
    * **Typography Styles**: Apply **Bold**, *Italic*, Underline, or Strikethrough formatting, or click the eraser icon to remove formatting.
    * **Font Size & Color**: Adjust pixel font size, apply text font colors from the palette, and apply background highlighter colors.
    * **Lists & Alignment**: Set text alignment *(Left, Center, Right, Justify)*, and create unordered bullet lists, numbered ordered lists, or interactive checklists.
-   * **AI Text Assistant & Translation**: Click the magic wand icon or floating AI pill to generate, rewrite, or expand text with AI, or click **Translate** to generate multilingual content.
+   * **AI Text Assistant & Copywriter**: While AI in CURQ is strictly limited to text (it does not generate layouts or images), it is not just a raw prompt generator. It operates in three distinct modes:
+     * **Prompt Generation**: When no text is selected, enter a prompt in the AI dialog to draft new copy from scratch.
+     * **AI Copywriter**: When text is selected, click the magic wand icon to generate 3 alternative variations with one-click tone and length filters *(Correct, Shorten, Lengthen, Friendly, Professional, or Persuasive)*.
+     * **AI Translation**: Click **Translate** to translate highlighted text into another configured language.
    * **Animations & Highlights**: Click **Animate** to configure text entrance animations, or click **Highlight** to apply stylistic animated marker strokes.
 
    ![Customize sidebar displaying the Inline Text formatting panel and text block layout controls](images/website-editor-inline-text-customize-sidebar.png)
