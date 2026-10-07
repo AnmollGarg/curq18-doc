@@ -16,5 +16,5 @@ Operate multiple independent websites from a single CURQ database with dedicated
 
 | | |
 | --- | --- |
-| **I want to design a webpage**<br>Use visual building blocks and layout styling in the website builder. | **I am here for the first time**<br>Explore core website capabilities, page creation, and configuration settings. |
+| **I want to design a webpage**<br>Use visual building blocks and layout styling in [Creating and Designing Webpages](./manual/01-create-and-design-pages.md). | **I am here for the first time**<br>Explore how to build and publish web pages in [Creating and Designing Webpages](./manual/01-create-and-design-pages.md). |
 | **How does multi-website work?**<br>Configure distinct domains, language selectors, and localized content per company. | **How do I optimize for search engines?**<br>Configure metadata, Open Graph previews, and page indexing in website settings. |
