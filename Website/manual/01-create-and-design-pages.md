@@ -44,10 +44,15 @@ The drag-and-drop editor provides a library of pre-designed responsive blocks in
    * **Features**: Engagement components including **Features**, **Comparison Table**, **Process Steps**, **Team Profiles**, **Client Testimonials**, and **FAQ Accordions**.
    * **Dynamic Content**: Connected data widgets that pull live CURQ records into your webpage, such as **Contact Form**, **Blog Posts**, **Products**, and **Call to Action**.
    * **Inner Content**: Smaller building blocks to nest inside columns, such as **Headings**, **Paragraphs**, **Icons**, **Buttons**, **Dividers**, and **Rating Stars**.
-3. Click and hold any block card in the sidebar.
+
+   ![Website editor blank canvas showing building block categories and inner content sidebar](images/website-editor-blank-canvas-blocks-sidebar.png)
+
+3. Click and hold any block card in the sidebar *(such as **Intro**)*.
 4. Drag the block over to the main page canvas.
 5. As you move the block, CURQ displays a blue horizontal insertion line indicating where the component will drop.
 6. Release the mouse button to drop the block into your page.
+
+   ![Intro building block added to the webpage canvas with headline and call to action buttons](images/website-editor-add-intro-building-block.png)
 
 ---
 
@@ -104,6 +109,8 @@ When an entire block section is selected, the right sidebar switches to the **Cu
    * **Shape Dividers**: Add decorative top or bottom vector wave, slant, or arrow dividers to create modern section transitions.
    * **Animation**: Add entrance animations *(such as Fade In, Slide Up, or Zoom In)* that trigger as visitors scroll down the page.
 
+   ![Customize sidebar panel showing block layout controls, column styling, and inline text formatting](images/website-editor-customize-block-sidebar.png)
+
 ---
 
 ### 7. Managing Site-Wide Themes and Brand Styling
@@ -111,8 +118,18 @@ When an entire block section is selected, the right sidebar switches to the **Cu
 To maintain visual consistency across all pages without restyling blocks one by one:
 
 1. In the top right sidebar, click the **Theme** tab.
+
+   ![Website editor Theme settings tab displaying global color swatches, typography, and button styles](images/website-editor-theme-settings-tab.png)
+
 2. Configure site-wide brand styles:
    * **Color Palette**: Choose a curated multi-color palette preset, or click individual color swatches to define your brand primary, secondary, accent, and neutral tones. All blocks immediately update to match your chosen palette.
+
+   ![Theme color palette presets dropdown displaying curated color harmony combinations](images/website-editor-theme-color-palette-presets.png)
+
+   Selecting a color palette immediately updates button accents, navbar highlights, and footer colors across the entire website:
+
+   ![Website canvas reflecting newly selected theme color palette with updated button and footer tones](images/website-editor-theme-palette-applied.png)
+
    * **Fonts**: Select primary heading fonts and body text font pairings from integrated Google Fonts libraries.
    * **Buttons**: Set default button corner roundness *(Sharp, Rounded, or Pill)*, drop shadow depth, and border weight.
    * **Layout**: Choose default container widths, card styling, and input field aesthetics.
@@ -135,6 +152,9 @@ To verify how the page renders on smaller screens before going live:
 Once your design and copy are finalized:
 
 1. Click the **Save** button in the top right corner of the website control bar to preserve all canvas edits.
+
+   ![Website top bar highlighting the Save button to preserve all page edits](images/website-editor-save-changes-button.png)
+
 2. By default, newly created pages remain in **Unpublished** state, making them invisible to regular website visitors while visible to logged-in administrators.
 3. To make the page live on the internet, click the red **Unpublished** toggle switch in the top bar.
 4. The switch turns green and displays **Published**. Visitors can now access the page through your navigation menu or direct URL.
