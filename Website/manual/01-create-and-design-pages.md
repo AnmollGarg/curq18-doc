@@ -89,12 +89,14 @@ Every element on the canvas can be edited directly without opening separate dial
    * **Font Size & Color**: Adjust pixel font size, apply text font colors from the palette, and apply background highlighter colors.
    * **Lists & Alignment**: Set text alignment *(Left, Center, Right, Justify)*, and create unordered bullet lists, numbered ordered lists, or interactive checklists.
    * **AI Text Assistant & Copywriter**: While AI in CURQ is strictly limited to text (it does not generate layouts or images), it is not just a raw prompt generator. It operates in three distinct modes:
-     * **Prompt Generation**: When no text is selected, enter a prompt in the AI dialog to draft new copy from scratch.
-     * **AI Copywriter**: When text is selected, click the magic wand icon to generate 3 alternative variations with one-click tone and length filters *(Correct, Shorten, Lengthen, Friendly, Professional, or Persuasive)*.
-     * **AI Translation**: Click **Translate** to translate highlighted text into another configured language.
+     * **Prompt Generation**: When text words are not highlighted (cursor placed in a text block), clicking the AI wand opens the **Generate Text with AI** modal to draft new copy from a conversational prompt.
+     * **AI Copywriter**: When text words are actively highlighted on the canvas, clicking the AI wand opens the **AI Copywriter** dialog to generate 3 alternative variations with one-click tone and length filters *(Correct, Shorten, Lengthen, Friendly, Professional, or Persuasive)*.
+     * **AI Translation**: When text words are actively highlighted, the **Translate** dropdown appears in the sidebar to translate the selection into other configured website languages.
    * **Animations & Highlights**: Click **Animate** to configure text entrance animations, or click **Highlight** to apply stylistic animated marker strokes.
 
    ![Customize sidebar displaying the Inline Text formatting panel and text block layout controls](images/website-editor-inline-text-customize-sidebar.png)
+
+   ![AI prompt dialog modal titled Generate Text with AI showing prompt message input field](images/website-editor-ai-generate-text-modal.png)
 
 4. Click on any button component on the canvas to configure button actions:
    * **Style**: Switch button appearance between **Primary**, **Secondary**, **Light**, **Dark**, or **Outline** styles.
