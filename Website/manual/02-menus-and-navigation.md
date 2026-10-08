@@ -1,4 +1,4 @@
-# Managing Menus and Page Navigation
+# Menu & Navigation
 
 Organize website structure, build hierarchical dropdowns, design responsive mega menus, and customize header and footer navigation layouts in CURQ 18.
 

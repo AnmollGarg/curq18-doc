@@ -1,4 +1,4 @@
-# Optimizing SEO, Keywords & Social Media Sharing
+# SEO Optimization
 
 Enhance search engine rankings, customize social media preview cards, and analyze on-page keyword density in CURQ 18 using the integrated SEO Optimizer tool.
 

@@ -1,4 +1,4 @@
-# Creating and Designing Webpages
+# Page Design
 
 Build, customize, and publish responsive web pages using the drag-and-drop website editor in CURQ 18.
 

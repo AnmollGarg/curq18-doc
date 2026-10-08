@@ -1,4 +1,4 @@
-# Managing Website Pages & Page Properties
+# Page Management
 
 Organize, configure, secure, and maintain web pages across your CURQ 18 websites using the centralized Page Manager and Page Properties dialog.
 
