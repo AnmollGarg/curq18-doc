@@ -11,6 +11,8 @@ Functional documentation and process guides for CURQ 18.
 * [Chat (`Chat/`)](Chat/00-overview.md): Channels, direct messages, voice and video calls, and record chatter.
 * [CRM (`CRM/`)](CRM/00-overview.md): Leads, pipeline stages, opportunity tracking, sales teams, and lost reasons.
 * [Dashboard (`Dashboard/`)](Dashboard/00-overview.md): Key performance indicators (KPIs), standard dashboards, personal user dashboards, and [General Settings](Dashboard/general-settings.md).
+* [Email Marketing (`Email Marketing/`)](Email%20Marketing/00-overview.md): Campaigns, mailing lists, broadcast mailings, dedicated SMTP servers, and reporting analytics.
+* [Timesheet (`Timesheet/`)](Timesheet/00-overview.md): Employee time tracking, project hour allocation, billable hours, approvals, and timesheet lock dates.
 
 ---
 
