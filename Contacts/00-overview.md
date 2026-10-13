@@ -14,7 +14,20 @@ Manage multiple delivery, invoice, and private addresses for every partner. Set 
 
 ### Quick Actions
 
-| | |
-| --- | --- |
-| **I want to add a contact**<br>Follow practical steps to [create and manage contacts](./manual/01-create-contact.md). | **I am here for the first time**<br>Learn how to [search, filter, and group contacts](./manual/02-search-filter-and-group-contacts.md) or explore our [enterprise customer management article](./articles/managing-enterprise-customers-and-subsidiaries.md). |
-| **How do I configure master data?**<br>Configure [contact tags](./procedures/01-contact-tags-setup.md), [titles](./procedures/02-contact-titles-setup.md), and [industries](./procedures/03-industries-setup.md). | **What can I configure in advance?**<br>Set up [bank accounts](./procedures/04-bank-accounts-setup.md) and [localization settings](./procedures/05-localization-setup.md). |
+## [Create and Manage Contacts](manual/01-create-contact.md)
+Create individual contacts, company profiles, delivery addresses, and invoice addresses in the unified database.
+
+## [Search, Filter, and Group Contacts](manual/02-search-filter-and-group-contacts.md)
+Quickly find partners using search filters, custom groupby segments, Kanban views, and exported lists.
+
+## [Granting & Managing Portal Access](manual/03-grant-and-manage-portal-access.md)
+Grant external portal access to customers and vendors, manage email validation, re-invite users, and revoke access.
+
+## [Contact Tags & Master Data Setup](procedures/01-contact-tags-setup.md)
+Configure contact categorization tags, professional titles, and industry sectors for structured partner classification.
+
+## [Bank Accounts Setup](procedures/04-bank-accounts-setup.md)
+Configure partner bank accounts, payment processing identifiers, and fiscal localization settings.
+
+## [Enterprise Customer Management](articles/managing-enterprise-customers-and-subsidiaries.md)
+Learn best practices for structuring complex multi-entity customers, corporate hierarchies, and branch subsidiaries.
