@@ -22,8 +22,20 @@ Built on a responsive layout, CURQ Dashboards adapt to any screen size and offer
 
 ### Quick Actions
 
-| | |
-| --- | --- |
-| **I want to explore standard dashboards**<br>Navigate pre-built boards and inspect live KPIs in [Standard Dashboards](./manual/01-navigate-and-filter-standard-dashboards.md). | **I am here for the first time**<br>Explore how dashboards empower daily operations in our [executive KPI tracking article](./articles/tracking-executive-kpis-and-daily-operations.md). |
-| **How do I customize "My Dashboard"?**<br>Add personal views, pin widgets, and arrange layouts in [My Dashboard](./manual/02-create-and-manage-my-dashboard.md). | **What can I configure in advance?**<br>Organize dashboards into categories and teams using [Dashboard Groups Setup](./procedures/01-dashboard-groups-setup.md). |
-| **Where are general system settings configured?**<br>Manage users, companies, access rights, and mail servers in [General Settings](./general-settings.md). | **Need an overview of executive KPIs?**<br>Review reporting architecture in our [executive KPI tracking article](./articles/tracking-executive-kpis-and-daily-operations.md). |
+## [Standard Dashboards](manual/01-navigate-and-filter-standard-dashboards.md)
+Navigate pre-built company dashboards, filter analytics by date or category, and inspect live operational KPIs.
+
+## [Create & Manage My Dashboard](manual/02-create-and-manage-my-dashboard.md)
+Build personal dashboard workspaces, pin operational list or graph widgets, and customize multi-column layouts.
+
+## [Dashboard Groups Setup](procedures/01-dashboard-groups-setup.md)
+Organize dashboards into functional categories, team workspaces, access groups, and spreadsheet templates.
+
+## [General System Settings](general-settings.md)
+Configure core platform settings, manage users, companies, security access rights, and mail servers.
+
+## [Executive KPI Tracking](articles/tracking-executive-kpis-and-daily-operations.md)
+Learn how executive dashboards empower daily operations, leadership decision-making, and metric monitoring.
+
+## [Dashboards FAQ](FAQ.md)
+Find quick answers to common questions about standard dashboards, custom widget limits, and permissions.

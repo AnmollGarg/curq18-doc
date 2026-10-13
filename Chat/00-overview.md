@@ -14,7 +14,20 @@ Chat powers the chatter feed on every customer card, sales quotation, project ta
 
 ### Quick Actions
 
-| | |
-| --- | --- |
-| **I want to send a message or start a chat**<br>Follow steps to open [channels and direct messages](./manual/01-channels-and-direct-messages.md). | **I am here for the first time**<br>Learn cross-department communication workflows in our [collaboration article](./articles/streamlining-cross-department-collaboration.md). |
-| **Where do I manage notifications?**<br>Configure notification delivery and alert sounds in [Notification Settings](./procedures/01-notification-settings.md). | **What can I configure in advance?**<br>Set up [voice and video calls](./procedures/02-voice-and-video-configuration.md) and [canned responses](./procedures/03-canned-responses.md). |
+## [Channels and Direct Messages](manual/01-channels-and-direct-messages.md)
+Start direct conversations, join public or private group channels, and collaborate with teams across the organization.
+
+## [Notification Settings](procedures/01-notification-settings.md)
+Configure desktop notifications, email alerts, mute channel options, and custom notification sounds.
+
+## [Voice & Video Calls Setup](procedures/02-voice-and-video-configuration.md)
+Configure voice calling, video conferences, screen sharing settings, and multimedia communication preferences.
+
+## [Canned Responses Setup](procedures/03-canned-responses.md)
+Create and manage shortcode shortcuts for rapid customer support replies and standardized messaging templates.
+
+## [Cross-Department Collaboration](articles/streamlining-cross-department-collaboration.md)
+Learn best practices for team communication workflows, record chatter feeds, and cross-department collaboration.
+
+## [Chat & Communication FAQ](FAQ.md)
+Find quick answers to common questions about channels, direct messages, chatter mentions, and notifications.

@@ -14,7 +14,20 @@ Maintain full visibility over margins, pricelists, discounts, and product varian
 
 ### Quick Actions
 
-| | |
-| --- | --- |
-| **I want to create a quotation**<br>Follow step-by-step instructions to [create a quotation](./manual/01-create-quotation.md) and [send it to customers](./manual/02-send-quotation.md). | **I am here for the first time**<br>Follow the complete sales workflow from [confirming orders](./manual/03-confirm-sales-order.md) to [invoicing](./manual/04-invoicing-sales-order.md) and [bulk contract sales](./articles/selling-in-bulk-with-contracts.md). |
-| **How do I analyze sales performance?**<br>Track revenue trends, top-selling products, and salesperson metrics in [Sales Reporting](./manual/07-analyze-sales-orders.md). | **What can I configure in advance?**<br>Set up [pricelists](./procedures/04-pricelists-and-pricing-rules.md), [quotation templates](./procedures/05-quotation-templates.md), and [delivery methods](./procedures/07-shipping-and-delivery-methods.md). |
+## [Create & Send Quotations](manual/01-create-quotation.md)
+Build sales quotations, customize lines with the quote builder, and send proposals directly to customers.
+
+## [Confirm Orders & Invoicing](manual/03-confirm-sales-order.md)
+Confirm quotations into locked sales orders, track warehouse delivery progress, and generate customer invoices.
+
+## [Pricelists & Pricing Rules Setup](procedures/04-pricelists-and-pricing-rules.md)
+Configure volume discounts, currency rules, customer-specific pricelists, and margin calculation policies.
+
+## [Selling in Bulk with Contracts](articles/selling-in-bulk-with-contracts.md)
+Execute high-volume B2B contract sales, blanket orders, scheduled call-offs, and staged delivery invoicing.
+
+## [Sales Reporting & Analysis](manual/07-analyze-sales-orders.md)
+Analyze revenue performance, top-selling products, regional sales distributions, and team quotas.
+
+## [Sales Orders & Pricing FAQ](FAQ.md)
+Find quick answers to common questions about quotation locking, pricelist priority, down payments, and invoicing.

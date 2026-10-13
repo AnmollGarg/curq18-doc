@@ -14,8 +14,23 @@ CRM allows sales leaders to allocate opportunities across specialized sales team
 
 ### Quick Actions
 
-| | |
-| --- | --- |
-| **I want to create or update an opportunity**<br>Follow steps to [create and manage opportunities](./manual/01-create-and-manage-leads-opportunities.md) and [qualify incoming leads](./manual/04-qualify-and-convert-leads.md). | **I am here for the first time**<br>Learn how deals progress through [pipeline stages and won/lost workflows](./manual/02-pipeline-stages-and-won-lost-workflow.md) or explore our [enterprise deal strategy article](./articles/closing-enterprise-deals-with-pipeline-management.md). |
-| **Why was a deal lost or how do I restore it?**<br>Learn how to [record lost reasons](./manual/02-pipeline-stages-and-won-lost-workflow.md) and configure [lost reasons and tags](./procedures/03-lost-reasons-and-tags-setup.md). | **What can I configure in advance?**<br>Configure [custom stages](./procedures/01-pipeline-stages-setup.md), [sales teams](./procedures/02-sales-teams-setup.md), and [recurring plans](./procedures/04-recurring-plans-setup.md). |
-| **How do I analyze pipeline performance and forecasts?**<br>Track monthly revenue projections, stage progression, lead sources, and activity logs in [Reporting](./manual/05-analyze-crm-reporting.md). | **How do I manage daily sales follow-ups?**<br>Schedule calls, meetings, emails, and to-do reminders using [My Activities](./manual/03-my-activities.md). |
+## [Create & Manage Opportunities](manual/01-create-and-manage-leads-opportunities.md)
+Create sales opportunities, assign expected revenue, qualify incoming leads, and track customer contact details.
+
+## [Pipeline Stages & Won/Lost Workflow](manual/02-pipeline-stages-and-won-lost-workflow.md)
+Progress deals through customized stages, log lost reasons, restore opportunities, and confirm won contracts.
+
+## [My Activities & Daily Tasks](manual/03-my-activities.md)
+Schedule calls, meetings, follow-up emails, and to-do reminders directly from the opportunity activity feed.
+
+## [Pipeline Stages Setup](procedures/01-pipeline-stages-setup.md)
+Configure custom stage sequences, probability weighting, fold defaults, and sales team assignments.
+
+## [CRM Reporting & Analytics](manual/05-analyze-crm-reporting.md)
+Analyze sales pipeline performance, monthly revenue forecasts, stage conversion trends, and salesperson win rates.
+
+## [Closing Enterprise Deals](articles/closing-enterprise-deals-with-pipeline-management.md)
+Explore strategic pipeline management techniques, multi-stakeholder deal tracking, and high-value negotiation workflows.
+
+## [CRM Pipeline FAQ](FAQ.md)
+Find quick answers to common questions about opportunities, stage automation, win probabilities, and sales teams.

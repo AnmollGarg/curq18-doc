@@ -23,7 +23,7 @@ Each module documentation folder follows a standardized structure:
 * `manual/`: Core workflows and everyday operational user journeys *(such as creating quotations, sending offers, confirming orders, and invoicing)*. Files inside use numbered prefixes, such as `01-task-name.md`.
 * `procedures/`: Feature configuration, system settings, master data setup, and parameter options. Files inside use numbered prefixes, such as `01-config-name.md`.
 * `articles/`: Business use case scenarios, operational examples, and end-to-end commercial walkthroughs.
-* `FAQs/`: Frequently asked business and system questions with short one- or two-line answers. Files inside use numbered prefixes, such as `01-topic-faq.md`.
+* `FAQ.md`: Frequently asked business and system questions with short one- or two-line answers.
 
 ### Naming Conventions
 * **Format**: Lowercase and hyphens (`kebab-case`).
@@ -43,9 +43,7 @@ Each module documentation folder follows a standardized structure:
 ├── articles/                 # Business use case scenarios and commercial examples
 │   ├── b2b-wholesale-pricing.md
 │   └── export-delivery-flow.md
-└── FAQs/                     # Quick Q&A with short 1-2 line answers
-    ├── 01-pricing-faq.md
-    └── 02-invoicing-faq.md
+└── FAQ.md                    # Quick Q&A with short 1-2 line answers
 ```
 
 ### List Formatting Standards: Numbered vs. Bullet Lists
