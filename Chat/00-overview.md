@@ -14,8 +14,20 @@ Chat powers the chatter feed on every customer card, sales quotation, project ta
 
 ### Quick Actions
 
-| Core Workflows & Actions | Related Guides & Setup |
-| --- | --- |
-| [**Channels and Direct Messages**](./manual/01-channels-and-direct-messages.md)<br>Manual · Chat<br>Start direct conversations, join public channels, and collaborate with teams. | [**Cross-Department Collaboration**](./articles/streamlining-cross-department-collaboration.md)<br>Article · Chat<br>Learn best practices for team communication workflows and chatter. |
-| [**Notification Settings**](./procedures/01-notification-settings.md)<br>Procedure · Chat<br>Configure desktop notifications, email alerts, and audio notifications. | [**Voice & Video Calls Setup**](./procedures/02-voice-and-video-configuration.md)<br>Procedure · Chat<br>Configure voice calling, video conferences, and screen sharing settings. |
-| [**Canned Responses Setup**](./procedures/03-canned-responses.md)<br>Procedure · Chat<br>Create shortcode shortcuts for rapid customer support replies. | [**Chat & Communication FAQ**](./FAQ.md)<br>FAQ · Chat<br>Frequently asked questions about channels, direct messages, and chat tools. |
+## [Channels and Direct Messages](manual/01-channels-and-direct-messages.md)
+Start direct conversations, join public or private group channels, and collaborate with teams across the organization.
+
+## [Notification Settings](procedures/01-notification-settings.md)
+Configure desktop notifications, email alerts, mute channel options, and custom notification sounds.
+
+## [Voice & Video Calls Setup](procedures/02-voice-and-video-configuration.md)
+Configure voice calling, video conferences, screen sharing settings, and multimedia communication preferences.
+
+## [Canned Responses Setup](procedures/03-canned-responses.md)
+Create and manage shortcode shortcuts for rapid customer support replies and standardized messaging templates.
+
+## [Cross-Department Collaboration](articles/streamlining-cross-department-collaboration.md)
+Learn best practices for team communication workflows, record chatter feeds, and cross-department collaboration.
+
+## [Chat & Communication FAQ](FAQ.md)
+Find quick answers to common questions about channels, direct messages, chatter mentions, and notifications.

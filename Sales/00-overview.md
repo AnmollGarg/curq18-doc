@@ -14,8 +14,20 @@ Maintain full visibility over margins, pricelists, discounts, and product varian
 
 ### Quick Actions
 
-| Core Workflows & Actions | Related Guides & Setup |
-| --- | --- |
-| [**Create & Send Quotations**](./manual/01-create-quotation.md)<br>Manual · Sales<br>Create sales quotes, add product lines, and send proposals to customers. | [**Selling in Bulk with Contracts**](./articles/selling-in-bulk-with-contracts.md)<br>Article · Sales<br>Complete commercial sales workflow for bulk agreements and contract sales. |
-| [**Confirm Orders & Invoicing**](./manual/03-confirm-sales-order.md)<br>Manual · Sales<br>Confirm customer orders, reserve products, and generate customer invoices. | [**Pricelists & Pricing Rules Setup**](./procedures/04-pricelists-and-pricing-rules.md)<br>Procedure · Sales<br>Configure volume discounts, customer-specific pricelists, and currency rules. |
-| [**Sales Reporting & Analysis**](./manual/07-analyze-sales-orders.md)<br>Manual · Sales<br>Track sales pipeline revenue, salesperson metrics, and product performance. | [**Sales Orders & Pricing FAQ**](./FAQ.md)<br>FAQ · Sales<br>Frequently asked questions about quotations, pricing rules, and invoicing. |
+## [Create & Send Quotations](manual/01-create-quotation.md)
+Build sales quotations, customize lines with the quote builder, and send proposals directly to customers.
+
+## [Confirm Orders & Invoicing](manual/03-confirm-sales-order.md)
+Confirm quotations into locked sales orders, track warehouse delivery progress, and generate customer invoices.
+
+## [Pricelists & Pricing Rules Setup](procedures/04-pricelists-and-pricing-rules.md)
+Configure volume discounts, currency rules, customer-specific pricelists, and margin calculation policies.
+
+## [Selling in Bulk with Contracts](articles/selling-in-bulk-with-contracts.md)
+Execute high-volume B2B contract sales, blanket orders, scheduled call-offs, and staged delivery invoicing.
+
+## [Sales Reporting & Analysis](manual/07-analyze-sales-orders.md)
+Analyze revenue performance, top-selling products, regional sales distributions, and team quotas.
+
+## [Sales Orders & Pricing FAQ](FAQ.md)
+Find quick answers to common questions about quotation locking, pricelist priority, down payments, and invoicing.

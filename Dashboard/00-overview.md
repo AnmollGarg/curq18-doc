@@ -22,8 +22,20 @@ Built on a responsive layout, CURQ Dashboards adapt to any screen size and offer
 
 ### Quick Actions
 
-| Core Workflows & Actions | Related Guides & Setup |
-| --- | --- |
-| [**Standard Dashboards**](./manual/01-navigate-and-filter-standard-dashboards.md)<br>Manual · Dashboard<br>Navigate pre-built boards, filter analytics, and inspect live operational KPIs. | [**Executive KPI Tracking**](./articles/tracking-executive-kpis-and-daily-operations.md)<br>Article · Dashboard<br>Learn how dashboards empower daily operations and executive decision-making. |
-| [**Create & Manage My Dashboard**](./manual/02-create-and-manage-my-dashboard.md)<br>Manual · Dashboard<br>Build custom dashboard views, pin operational widgets, and arrange layouts. | [**Dashboard Groups Setup**](./procedures/01-dashboard-groups-setup.md)<br>Procedure · Dashboard<br>Organize dashboards into functional categories, team workspaces, and access groups. |
-| [**General System Settings**](./general-settings.md)<br>Guide · Dashboard<br>Manage users, companies, security access rights, and mail servers. | [**Dashboards FAQ**](./FAQ.md)<br>FAQ · Dashboard<br>Frequently asked questions about standard dashboards, custom widgets, and permissions. |
+## [Standard Dashboards](manual/01-navigate-and-filter-standard-dashboards.md)
+Navigate pre-built company dashboards, filter analytics by date or category, and inspect live operational KPIs.
+
+## [Create & Manage My Dashboard](manual/02-create-and-manage-my-dashboard.md)
+Build personal dashboard workspaces, pin operational list or graph widgets, and customize multi-column layouts.
+
+## [Dashboard Groups Setup](procedures/01-dashboard-groups-setup.md)
+Organize dashboards into functional categories, team workspaces, access groups, and spreadsheet templates.
+
+## [General System Settings](general-settings.md)
+Configure core platform settings, manage users, companies, security access rights, and mail servers.
+
+## [Executive KPI Tracking](articles/tracking-executive-kpis-and-daily-operations.md)
+Learn how executive dashboards empower daily operations, leadership decision-making, and metric monitoring.
+
+## [Dashboards FAQ](FAQ.md)
+Find quick answers to common questions about standard dashboards, custom widget limits, and permissions.

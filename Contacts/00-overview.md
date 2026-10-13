@@ -14,8 +14,20 @@ Manage multiple delivery, invoice, and private addresses for every partner. Set 
 
 ### Quick Actions
 
-| Core Workflows & Actions | Related Guides & Setup |
-| --- | --- |
-| [**Create and Manage Contacts**](./manual/01-create-contact.md)<br>Manual · Contacts<br>Create individuals, company partners, and multiple delivery addresses. | [**Enterprise Customer Management**](./articles/managing-enterprise-customers-and-subsidiaries.md)<br>Article · Contacts<br>Manage parent companies, enterprise subsidiaries, and branch contacts. |
-| [**Search, Filter, and Group Contacts**](./manual/02-search-filter-and-group-contacts.md)<br>Manual · Contacts<br>Quickly locate contacts using filters, custom views, and grouped lists. | [**Contact Tags & Master Data**](./procedures/01-contact-tags-setup.md)<br>Procedure · Contacts<br>Configure contact tags, professional titles, and industry sectors. |
-| [**Bank Accounts Setup**](./procedures/04-bank-accounts-setup.md)<br>Procedure · Contacts<br>Set up partner bank accounts and payment processing details. | [**Contacts Management FAQ**](./FAQ.md)<br>FAQ · Contacts<br>Frequently asked questions about contacts, duplicate records, and addresses. |
+## [Create and Manage Contacts](manual/01-create-contact.md)
+Create individual contacts, company profiles, delivery addresses, and invoice addresses in the unified database.
+
+## [Search, Filter, and Group Contacts](manual/02-search-filter-and-group-contacts.md)
+Quickly find partners using search filters, custom groupby segments, Kanban views, and exported lists.
+
+## [Contact Tags & Master Data Setup](procedures/01-contact-tags-setup.md)
+Configure contact categorization tags, professional titles, and industry sectors for structured partner classification.
+
+## [Bank Accounts Setup](procedures/04-bank-accounts-setup.md)
+Configure partner bank accounts, payment processing identifiers, and fiscal localization settings.
+
+## [Enterprise Customer Management](articles/managing-enterprise-customers-and-subsidiaries.md)
+Learn best practices for structuring complex multi-entity customers, corporate hierarchies, and branch subsidiaries.
+
+## [Contacts Management FAQ](FAQ.md)
+Find quick answers to common questions about duplicate contacts, merged cards, address handling, and bank accounts.
