@@ -14,7 +14,8 @@ Manage multiple delivery, invoice, and private addresses for every partner. Set 
 
 ### Quick Actions
 
-| | |
+| Core Workflows & Actions | Related Guides & Setup |
 | --- | --- |
-| **I want to add a contact**<br>Follow practical steps to [create and manage contacts](./manual/01-create-contact.md). | **I am here for the first time**<br>Learn how to [search, filter, and group contacts](./manual/02-search-filter-and-group-contacts.md) or explore our [enterprise customer management article](./articles/managing-enterprise-customers-and-subsidiaries.md). |
-| **How do I configure master data?**<br>Configure [contact tags](./procedures/01-contact-tags-setup.md), [titles](./procedures/02-contact-titles-setup.md), and [industries](./procedures/03-industries-setup.md). | **What can I configure in advance?**<br>Set up [bank accounts](./procedures/04-bank-accounts-setup.md) and [localization settings](./procedures/05-localization-setup.md). |
+| [**Create and Manage Contacts**](./manual/01-create-contact.md)<br>Manual · Contacts<br>Create individuals, company partners, and multiple delivery addresses. | [**Enterprise Customer Management**](./articles/managing-enterprise-customers-and-subsidiaries.md)<br>Article · Contacts<br>Manage parent companies, enterprise subsidiaries, and branch contacts. |
+| [**Search, Filter, and Group Contacts**](./manual/02-search-filter-and-group-contacts.md)<br>Manual · Contacts<br>Quickly locate contacts using filters, custom views, and grouped lists. | [**Contact Tags & Master Data**](./procedures/01-contact-tags-setup.md)<br>Procedure · Contacts<br>Configure contact tags, professional titles, and industry sectors. |
+| [**Bank Accounts Setup**](./procedures/04-bank-accounts-setup.md)<br>Procedure · Contacts<br>Set up partner bank accounts and payment processing details. | [**Contacts Management FAQ**](./FAQ.md)<br>FAQ · Contacts<br>Frequently asked questions about contacts, duplicate records, and addresses. |

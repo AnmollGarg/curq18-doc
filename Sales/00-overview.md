@@ -14,7 +14,8 @@ Maintain full visibility over margins, pricelists, discounts, and product varian
 
 ### Quick Actions
 
-| | |
+| Core Workflows & Actions | Related Guides & Setup |
 | --- | --- |
-| **I want to create a quotation**<br>Follow step-by-step instructions to [create a quotation](./manual/01-create-quotation.md) and [send it to customers](./manual/02-send-quotation.md). | **I am here for the first time**<br>Follow the complete sales workflow from [confirming orders](./manual/03-confirm-sales-order.md) to [invoicing](./manual/04-invoicing-sales-order.md) and [bulk contract sales](./articles/selling-in-bulk-with-contracts.md). |
-| **How do I analyze sales performance?**<br>Track revenue trends, top-selling products, and salesperson metrics in [Sales Reporting](./manual/07-analyze-sales-orders.md). | **What can I configure in advance?**<br>Set up [pricelists](./procedures/04-pricelists-and-pricing-rules.md), [quotation templates](./procedures/05-quotation-templates.md), and [delivery methods](./procedures/07-shipping-and-delivery-methods.md). |
+| [**Create & Send Quotations**](./manual/01-create-quotation.md)<br>Manual · Sales<br>Create sales quotes, add product lines, and send proposals to customers. | [**Selling in Bulk with Contracts**](./articles/selling-in-bulk-with-contracts.md)<br>Article · Sales<br>Complete commercial sales workflow for bulk agreements and contract sales. |
+| [**Confirm Orders & Invoicing**](./manual/03-confirm-sales-order.md)<br>Manual · Sales<br>Confirm customer orders, reserve products, and generate customer invoices. | [**Pricelists & Pricing Rules Setup**](./procedures/04-pricelists-and-pricing-rules.md)<br>Procedure · Sales<br>Configure volume discounts, customer-specific pricelists, and currency rules. |
+| [**Sales Reporting & Analysis**](./manual/07-analyze-sales-orders.md)<br>Manual · Sales<br>Track sales pipeline revenue, salesperson metrics, and product performance. | [**Sales Orders & Pricing FAQ**](./FAQ.md)<br>FAQ · Sales<br>Frequently asked questions about quotations, pricing rules, and invoicing. |

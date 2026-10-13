@@ -22,8 +22,8 @@ Built on a responsive layout, CURQ Dashboards adapt to any screen size and offer
 
 ### Quick Actions
 
-| | |
+| Core Workflows & Actions | Related Guides & Setup |
 | --- | --- |
-| **I want to explore standard dashboards**<br>Navigate pre-built boards and inspect live KPIs in [Standard Dashboards](./manual/01-navigate-and-filter-standard-dashboards.md). | **I am here for the first time**<br>Explore how dashboards empower daily operations in our [executive KPI tracking article](./articles/tracking-executive-kpis-and-daily-operations.md). |
-| **How do I customize "My Dashboard"?**<br>Add personal views, pin widgets, and arrange layouts in [My Dashboard](./manual/02-create-and-manage-my-dashboard.md). | **What can I configure in advance?**<br>Organize dashboards into categories and teams using [Dashboard Groups Setup](./procedures/01-dashboard-groups-setup.md). |
-| **Where are general system settings configured?**<br>Manage users, companies, access rights, and mail servers in [General Settings](./general-settings.md). | **Need an overview of executive KPIs?**<br>Review reporting architecture in our [executive KPI tracking article](./articles/tracking-executive-kpis-and-daily-operations.md). |
+| [**Standard Dashboards**](./manual/01-navigate-and-filter-standard-dashboards.md)<br>Manual · Dashboard<br>Navigate pre-built boards, filter analytics, and inspect live operational KPIs. | [**Executive KPI Tracking**](./articles/tracking-executive-kpis-and-daily-operations.md)<br>Article · Dashboard<br>Learn how dashboards empower daily operations and executive decision-making. |
+| [**Create & Manage My Dashboard**](./manual/02-create-and-manage-my-dashboard.md)<br>Manual · Dashboard<br>Build custom dashboard views, pin operational widgets, and arrange layouts. | [**Dashboard Groups Setup**](./procedures/01-dashboard-groups-setup.md)<br>Procedure · Dashboard<br>Organize dashboards into functional categories, team workspaces, and access groups. |
+| [**General System Settings**](./general-settings.md)<br>Guide · Dashboard<br>Manage users, companies, security access rights, and mail servers. | [**Dashboards FAQ**](./FAQ.md)<br>FAQ · Dashboard<br>Frequently asked questions about standard dashboards, custom widgets, and permissions. |

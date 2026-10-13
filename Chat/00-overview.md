@@ -14,7 +14,8 @@ Chat powers the chatter feed on every customer card, sales quotation, project ta
 
 ### Quick Actions
 
-| | |
+| Core Workflows & Actions | Related Guides & Setup |
 | --- | --- |
-| **I want to send a message or start a chat**<br>Follow steps to open [channels and direct messages](./manual/01-channels-and-direct-messages.md). | **I am here for the first time**<br>Learn cross-department communication workflows in our [collaboration article](./articles/streamlining-cross-department-collaboration.md). |
-| **Where do I manage notifications?**<br>Configure notification delivery and alert sounds in [Notification Settings](./procedures/01-notification-settings.md). | **What can I configure in advance?**<br>Set up [voice and video calls](./procedures/02-voice-and-video-configuration.md) and [canned responses](./procedures/03-canned-responses.md). |
+| [**Channels and Direct Messages**](./manual/01-channels-and-direct-messages.md)<br>Manual · Chat<br>Start direct conversations, join public channels, and collaborate with teams. | [**Cross-Department Collaboration**](./articles/streamlining-cross-department-collaboration.md)<br>Article · Chat<br>Learn best practices for team communication workflows and chatter. |
+| [**Notification Settings**](./procedures/01-notification-settings.md)<br>Procedure · Chat<br>Configure desktop notifications, email alerts, and audio notifications. | [**Voice & Video Calls Setup**](./procedures/02-voice-and-video-configuration.md)<br>Procedure · Chat<br>Configure voice calling, video conferences, and screen sharing settings. |
+| [**Canned Responses Setup**](./procedures/03-canned-responses.md)<br>Procedure · Chat<br>Create shortcode shortcuts for rapid customer support replies. | [**Chat & Communication FAQ**](./FAQ.md)<br>FAQ · Chat<br>Frequently asked questions about channels, direct messages, and chat tools. |
